@@ -1,0 +1,11 @@
+#summary Build instructions for Win64
+#labels Featured,Phase-Implementation
+
+= Introduction =
+
+What you need to build a Win64 binary for Vim.
+
+
+= Details =
+
+TODO
