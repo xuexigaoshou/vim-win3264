@@ -1,0 +1,10 @@
+#summary Build instructions for Win32
+#labels Featured,Phase-Implementation
+
+= Introduction =
+
+Discuss the multiple different ways of building for Win32
+
+= Details =
+
+See src/INSTALLpc.txt for now.
