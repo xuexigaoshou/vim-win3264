@@ -1,0 +1,23 @@
+#summary a wish list of features that it would be nice to have
+#labels Featured
+
+= Introduction =
+
+What would you like to see in Vim for Windows?
+
+
+= Details =
+
+== Win64 ==
+
+  * Support for Ruby, TCL, MzScheme, etc interfaces. This requires the owners of these languages to produce 64-bit builds.
+
+== Console ==
+
+  * Full support for Unicode and UTF-8
+
+== Misc ==
+
+  * Shell/pty support. Look at [http://www.wana.at/vimshell/ VIM-Shell], [http://www.vim.org/scripts/script.php?script_id=1974 PyConsole], and [http://sourceforge.net/projects/console/ Console]
+  * Visual Studio integration for VS 200x. VisVim only works for VS98 (VC6). Look at [http://www.vim.org/scripts/script.php?script_id=864 Visual Studio].
+  * Omni-completion for C# and other .NET languages. Steal intellisense stuff from [http://www.icsharpcode.net/OpenSource/SD/ SharpDevelop]?
