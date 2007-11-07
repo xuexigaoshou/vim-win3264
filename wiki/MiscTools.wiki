@@ -1,0 +1,11 @@
+#summary Miscellaneous tools that are often used with Vim
+
+= Introduction =
+
+Links to miscellaneous tools that are popular with Vim users. Specifically, to Win32 binaries.
+
+= Details =
+
+  * [http://sysmic.org/dotclear/index.php?2006/06/22/55-add-multibyte-characters-support-in-par par multibyte patch]
+  * ctags
+  * cygwin
