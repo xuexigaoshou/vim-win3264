@@ -27,7 +27,7 @@ What would you like to see in Vim for Windows?
  * Shell/pty support. Look at [http://www.wana.at/vimshell/ VIM-Shell], [http://www.vim.org/scripts/script.php?script_id=1974 PyConsole], and [http://sourceforge.net/projects/console/ Console]
  * Visual Studio integration for VS 200x. VisVim only works for VS98 (VC6). Look at [http://www.vim.org/scripts/script.php?script_id=864 Visual Studio] plugin.
  * Omni-completion for C# and other .NET languages. Steal intellisense stuff from [http://www.icsharpcode.net/OpenSource/SD/ SharpDevelop]? Look at [http://www.vim.org/scripts/script.php?script_id=1785 JavaComplete] too.
- * Full-screen mode like MacVim.
+ * Full-screen mode like [http://code.google.com/p/macvim/ MacVim].
 
 == Performance ==
 
@@ -35,3 +35,7 @@ This should be of general benefit to Vim on all platforms.
 
  * Profile start-up times, both with `-u NONE` and with a non-trivial set of plugins.
  * Profile heavyweight operations. For example, [http://skawina.eu.org/mikolaj/vst.html VST] takes about 1 minute to regenerate its own documentation, running at 100% CPU. This case is probably a combination of inefficient script techniques, regexp inefficiencies, and inefficiencies in the core of Vim.
+
+== Tools ==
+
+Address issues with MiscTools.
