@@ -29,6 +29,7 @@ What would you like to see in Vim for Windows?
  * Omni-completion for C# and other .NET languages. Steal intellisense stuff from [http://www.icsharpcode.net/OpenSource/SD/ SharpDevelop]? Look at [http://www.vim.org/scripts/script.php?script_id=1785 JavaComplete] too.
  * Full-screen mode like [http://code.google.com/p/macvim/ MacVim].
  * Incorporate [http://www.vim.org/scripts/script.php?script_id=1720 GVimExt_Tab] functionality, if it's not already.
+ * Play well with [http://portablegvim.sourceforge.net/ Portable GVim].
 
 == Performance ==
 
