@@ -15,7 +15,7 @@ What would you like to see in Vim for Windows?
 == Visuals ==
 
  * Bigger Vim icon that don't look like crap on Vista; i.e., 64x64 or better. See [http://www.cs.princeton.edu/~mtwebb/vim_icon/vim_icons.html OS X Vim Icon].
- * Better toolbar icons, such as the Tango ones.
+ * Better toolbar icons, such as the [http://tango.freedesktop.org/Tango_Icon_Library Tango ones] or the [http://www.famfamfam.com/lab/icons/silk/ Silk ones].
 
 == Console Vim ==
 
