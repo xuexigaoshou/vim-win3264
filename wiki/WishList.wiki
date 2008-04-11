@@ -11,6 +11,7 @@ What would you like to see in Vim for Windows?
 == Win64 ==
 
  * Support for Ruby, TCL, MzScheme, etc interfaces. This requires the owners of these languages to produce 64-bit builds.
+ * Compile with [http://mingw-w64.sourceforge.net/ mingw-w64] in addition to MSVC.
 
 == Visuals ==
 
