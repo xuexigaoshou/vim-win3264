@@ -16,7 +16,7 @@ to use it.
 
 = Installation =
 
-To install Vim, first download [vim72.zip].
+To install Vim, first download [http://vim-win3264.googlecode.com/files/vim72.zip vim72.zip].
 This 18MB file contains all the files you need for a full installation,
 including the latest Vim runtime.
 
