@@ -8,4 +8,12 @@ What you need to build a Win64 binary for Vim.
 
 = Details =
 
-TODO
+First, get the Vim source from [http://www.vim.org/subversion.php Subversion] or [http://www.vim.org/cvs.php CVS].
+
+I use [http://vim-win3264.googlecode.com/files/8win64.bat 8win64.bat] to set up environment variables for VS 2005 (VC 8), and [http://vim-win3264.googlecode.com/files/9win64.bat 9win64.bat] for VS 2008 (VC 9). Run the appropriate batchfile once.
+
+Then follow the instructions in `src/INSTALLpc.txt`. Essentially,
+{{{
+nmake -f Make_mvc.mak GUI=yes
+}}}
+with other optional arguments.
