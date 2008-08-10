@@ -1,5 +1,5 @@
 #labels Featured
-# Installing Vim Binaries on Win64
+Installing Vim Binaries on Win64
 
 = Introduction =
 
