@@ -7,4 +7,11 @@ Discuss the multiple different ways of building for Win32
 
 = Details =
 
-See src/INSTALLpc.txt for now.
+See [http://vim.svn.sourceforge.net/viewvc/vim/vim7/src/INSTALLpc.txt?view=markup src/INSTALLpc.txt] for now. Or [http://users.skynet.be/antoine.mechelynck/vim/compile.htm Tony Mechelynck]'s instructions.
+
+= Other Builds =
+
+Various other people make intermediate builds of Vim for Win32 available.
+
+* [http://wyw.dcweb.cn/ Wu Yongwei]
+* [http://cream.sourceforge.net/ Cream]
