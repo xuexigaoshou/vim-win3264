@@ -13,5 +13,5 @@ See [http://vim.svn.sourceforge.net/viewvc/vim/vim7/src/INSTALLpc.txt?view=marku
 
 Various other people make intermediate builds of Vim for Win32 available.
 
-* [http://wyw.dcweb.cn/ Wu Yongwei]
-* [http://cream.sourceforge.net/ Cream]
+  * [http://wyw.dcweb.cn/ Wu Yongwei]
+  * [http://cream.sourceforge.net/ Cream]
