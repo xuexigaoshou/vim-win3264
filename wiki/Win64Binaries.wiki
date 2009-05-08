@@ -28,7 +28,7 @@ window, `cd ...\vim\vim72`, then run `install.exe`,
 the command-line installer. This will offer you a series of choices.
 You can probably just type `d` to "do it".`
 
-On Vista, you must run the cmd window as an Administrator.
+On Vista and Windows 7, you must run the cmd window as an Administrator.
 (Most users run as administrators on earlier versions of Windows.)
 
   * In Windows Explorer, go to c:\windows\system32, select cmd.exe, and right-click. Choose Run as Administrator.
